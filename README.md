@@ -1,4 +1,4 @@
-## Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm Nadeesh</h1>
+<h1 align="center">Hi 👋, I'm Nadeesh</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyuminadee&label=Profile%20views&color=0e75b6&style=flat" alt="piyuminadee" /> </p>
@@ -38,4 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyuminadee&show_icons=true&locale=en" alt="piyuminadee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyuminadee&" alt="piyuminadee" /></p>
-
