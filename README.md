@@ -79,12 +79,14 @@
 
 <h3 align="left">Activity:</h3>
 
-[![Nadeesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piyuminadee)](https://github.com/piyuminadee/github-readme-activity-graph)
+
+
+[![Nadeesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piyuminadee&bg_color=tokyo-night&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/piyuminadee/github-readme-activity-graph)
 <br><br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyuminadee&show_icons=true&locale=en&layout=compact" alt="piyuminadee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyuminadee&show_icons=true&locale=en" alt="piyuminadee" /></p>
+![Nadeesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyuminadee\&theme=transparent\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyuminadee&" alt="piyuminadee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyuminadee&theme=transparent" alt="piyuminadee" /></p>
