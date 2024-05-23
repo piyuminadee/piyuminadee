@@ -33,7 +33,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <p align="left"> <a href="https://twitter.com/piyuminadeesha3" target="blank"><img src="https://img.shields.io/twitter/follow/piyuminadeesha3?logo=twitter&style=for-the-badge" alt="piyuminadeesha3" /></a> </p>
 
 - 🔭 I’m currently working on **Faculty Management System**
@@ -69,9 +69,15 @@
 [![Nadeesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piyuminadee&bg_color=tokyo-night&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/piyuminadee/github-readme-activity-graph)
 <br>
 
+###
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyuminadee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  /></div><hr>
+<div align="center">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyuminadee&theme=transparent" height="150" alt="piyuminadee" /></div> <hr>
+ <div align="center">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyuminadee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
 
-![Nadeesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyuminadee\&theme=transparent\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues) 
+![Nadeesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyuminadee\&theme=transparent\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues ) 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyuminadee&theme=transparent" alt="piyuminadee" />
+</div>
+
