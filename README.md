@@ -1,4 +1,4 @@
-## Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+## Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> <img src="https://media.giphy.com/media/H2zjDfFXWTCSU8LxeB/giphy.gif?cid=ecf05e47oyn9ib20obtrvmd89d1lo2hg3yfcueahsdzjjvt6&rid=giphy.gif&ct=s" align="rigt" width="40" height="40">
 <h1 align="center"> I'm Nadeesh</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
