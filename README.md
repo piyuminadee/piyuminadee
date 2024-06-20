@@ -82,8 +82,10 @@
 ![Nadeesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyuminadee\&theme=transparent\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues ) 
 
 </div>
+
+
 ## HackerRank Badges
 
-![Java](/badges/python_5_star.png)
+![Java](/badges/images.jpeg)
 
 
