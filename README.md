@@ -86,6 +86,6 @@
 
 ## HackerRank Badges
 
-![Java](/badges/images.jpeg)
+<img src ="./badges/images.jpeg" width="100px"  />
 
 
