@@ -1,19 +1,12 @@
 ## Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> <img src="https://media.giphy.com/media/H2zjDfFXWTCSU8LxeB/giphy.gif?cid=ecf05e47oyn9ib20obtrvmd89d1lo2hg3yfcueahsdzjjvt6&rid=giphy.gif&ct=s" align="rigt" width="40" height="40">
 <h1 align="center"> I'm Nadeesh</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/piyuminadee/count.svg" />
-</p>
-
-
+<h3 align="center">A passionate software developer from Sri Lanka</h3>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
@@ -24,8 +17,7 @@
 
 <h3 align="left">Trophy:</h3>
 
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=piyuminadee&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
@@ -43,13 +35,13 @@
 
 <p align="left"> <a href="https://twitter.com/piyuminadeesha3" target="blank"><img src="https://img.shields.io/twitter/follow/piyuminadeesha3?logo=twitter&style=for-the-badge" alt="piyuminadeesha3" /></a> </p>
 
-- 🔭 I’m currently working on **own projects🚀**
+- 🔭 I’m currently working on **my own projects🚀**
 
 - 🌱 I’m currently learning **DSA & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [#](#)
 
-- 💬 Ask me about **Javascript, ReactJ**
+- 💬 Ask me about **Javascript - React**
 
 - 📫 How to reach me **piyuminadeesha.22@gmail.com**
 
@@ -119,12 +111,5 @@
 
 </div>
 
-
-## HackerRank Badges
-
-<img src ="./badges/images.jpeg" width="100px"  />
-
-## Leetcode
-![Leetcode Stats](https://leetcard.jacoblin.cool/piyuminadee)
 
 
