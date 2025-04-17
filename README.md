@@ -1,6 +1,11 @@
 ## Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> <img src="https://media.giphy.com/media/H2zjDfFXWTCSU8LxeB/giphy.gif?cid=ecf05e47oyn9ib20obtrvmd89d1lo2hg3yfcueahsdzjjvt6&rid=giphy.gif&ct=s" align="rigt" width="40" height="40">
 <h1 align="center"> I'm Nadeesh</h1>
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF00&width=435&lines=Software+Engineer;Data+Science+Enthusiast;Open-Source+Contributor)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyumi-weerarathna-36ba26214/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](http://localhost:5173/React_Portfolio/)
+
+---
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
@@ -37,9 +42,9 @@
 
 - 🔭 I’m currently working on **my own projects🚀**
 
-- 🌱 I’m currently learning **DSA & Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning and Generative AI**
 
-- 👨‍💻 All of my projects are available at [#](#)
+- 👨‍💻 All of my projects are available at [#](http://localhost:5173/React_Portfolio/)
 
 - 💬 Ask me about **Javascript - React**
 
@@ -89,6 +94,12 @@
   </a>
 </p>
 
+**Data Science:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+---
 
 <h3 align="left">Activity:</h3>
 
