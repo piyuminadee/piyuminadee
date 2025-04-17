@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF00&width=435&lines=Software+Engineer;Data+Science+Enthusiast;Open-Source+Contributor)](https://git.io/typing-svg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyumi-weerarathna-36ba26214/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](http://localhost:5173/React_Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://piyuminadee.github.io/React_Portfolio/)
 
 ---
 
@@ -94,7 +94,8 @@
   </a>
 </p>
 
-**Data Science:**  
+<h3 align="left">Data Science:</h3>
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
